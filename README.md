@@ -1,5 +1,5 @@
 
-# Business Insights Dashboard – Power BI
+# Retail-performance-dashboard
 
 This project showcases a Power BI dashboard built using a public retail dataset from Kaggle to analyze business performance across categories, departments, and regions.
 
